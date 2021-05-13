@@ -2,18 +2,15 @@
 * `download-data-supplement` folder - contains the code and files for downloading the images and processing the annotations
 * `1-Data-Prep.ipynb` notebook - code for cleaning data
 * `2-Load-Data-PyTorch.ipynb` notebook - code for loading and visualizing data in PyTorch
-* `3-Build-Model.ipynb` 
-* `4-Improve-Performance.ipynb` 
-* `5-Hyperparameters-Tuning.ipynb` 
-* Slide deck:
+* `3-Build-Model.ipynb` - build and train model
+* `4-Improve-Performance.ipynb` - improve training speed
+* `5-Hyperparameters-Tuning.ipynb` -improve training accuracy
 
 
 ## Project Resources:
-* https://www.zooniverse.org/projects/zooniverse/snapshot-serengeti
-* https://www.pnas.org/content/115/25/E5716
-* https://github.com/Evolving-AI-Lab/deep_learning_for_camera_trap_images
-* raw data: http://lila.science/datasets/snapshot-serengeti
-
+* Data location - https://www.zooniverse.org/projects/zooniverse/snapshot-serengeti
+* Article - https://www.pnas.org/content/115/25/E5716
+* Article code - https://github.com/Evolving-AI-Lab/deep_learning_for_camera_trap_images
 
 
 ## Summary:
