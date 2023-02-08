@@ -17,7 +17,6 @@ At the end of this session, you will understand how to:
 * `2-Build-Model.ipynb` - Tutorial notebook for training a model with transfer learning
 * `3-Improve-Performance.ipynb` - Tutorial notebook for improving model training speed
 * `4-Hyperparameters-Tuning.ipynb` - Tutorial motebook for improving model accuracy
-* `Deep-Learning-Tutorial-slides.pdf` - Slide deck for the tutorial
 
 ## Project setup
 The below recommended flow for setting up this project assumes it has been uploaded to a Domino deployment as a public project, and a Domino admin has set up the prerequisites listed below.
@@ -67,7 +66,7 @@ vscode:
     requireSubdomain: false
 ```
 
-Equivalent environments are likely to work as well, but have not been tested.
+Equivalent environments will work as well.
 (For example, NGC pytorch images used with the option to [Automatically make compatible with Domino](https://docs.dominodatalab.com/en/latest/user_guide/4e0c34/create-a-domino-environment-with-a-pre-built-image/), or any other environment with working pytorch installed.)
 If the `line_profiler` package is not installed, it can also be installed within the tutorial notebook where needed.
 
